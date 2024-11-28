@@ -33,8 +33,8 @@ En este mensaje sencillo, comienza con el **objetivo** básico: _crear una nueva
 | Elemento | Ejemplo |
 | :------ | :------- |
 | Mensaje básico: <br>Empieza con el **objetivo** | **_Redacta una propuesta de marketing._** |
-| Mensaje correcto: <br>Agrega **contexto** | Agregar un **contexto** puede ayudar a Copilot a comprender qué tipo de documento deseas crear y para qué se usará.<br><br>"_...para el producto más reciente de Contoso: CipherGuard. Necesitamos generar tres ideas para una campaña de marketing..._" |
-| Mensaje mejor: <br>Especifica los **Orígenes** | Agregar los **orígenes** puede ayudar a Copilot a buscar información específica.<br><br>"_...usando las especificaciones y requisitos del producto"._ |
+| Mensaje correcto: <br>Agrega un **contexto** | Agregar un **contexto** puede ayudar a Copilot a comprender qué tipo de documento deseas crear y para qué se usará.<br><br>"_...para el producto más reciente de Contoso: CipherGuard. Necesitamos generar tres ideas para una campaña de marketing..._" |
+| Mensaje mejor: <br>Especifica los **orígenes** | Agregar los **orígenes** puede ayudar a Copilot a buscar información específica.<br><br>"_...usando las especificaciones y requisitos del producto"._ |
 | Mensaje recomendado: <br>Establece unas **expectativas** claras | Por último, agregar unas **expectativas** puede ayudar a Copilot a comprender cómo deseas que el documento se escriba y se le aplique el formato.<br><br>"_Incluye una breve introducción al producto, las ventajas y desventajas de cada idea y la proyección de ROI. Mantén el documento en dos páginas y usa un lenguaje optimista y convincente"._ |
 
 > [!NOTE]

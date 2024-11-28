@@ -36,7 +36,7 @@ En este mensaje sencillo, empezarás con el **objetivo** básico: _resumir una r
 
 | Elemento | Ejemplo |
 | :------ | :------- |
-| Mensaje básico: <br>Empieza con el **objetivo** | **Vuelve a resumir esta reunión de Teams.** |
+| Mensaje básico: <br>Empieza con el **objetivo** | **Resume esta reunión de Teams.** |
 | Mensaje correcto: <br>Agrega un **contexto** | Agregar un **contexto** puede ayudar a Copilot a comprender el propósito y ajustar la respuesta en consecuencia.<br><br>"_He llegado tarde y necesito un breve resumen sobre la escala de tiempo del proyecto_". |
 | Mensaje mejor: <br>Especifica los **orígenes** | Agregar los **orígenes** puede ayudar a Copilot a comprender qué parte debe resumirse y a proporcionar una respuesta más precisa.<br><br>"_¿Propuso Adele Vance algún cambio?_" |
 | Mensaje recomendado: <br>Establece unas **expectativas** claras | Por último, agregar unas **expectativas** puede ayudar a Copilot a comprender cómo dar formato al resumen y el nivel de detalle que se necesita.<br><br>"_Incluye la escala de tiempo del proyecto en una tabla y los cambios propuestos por Adele_". |

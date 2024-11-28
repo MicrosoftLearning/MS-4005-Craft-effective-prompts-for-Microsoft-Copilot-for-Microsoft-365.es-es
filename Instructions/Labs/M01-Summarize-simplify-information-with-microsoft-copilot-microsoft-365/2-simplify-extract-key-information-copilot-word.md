@@ -25,7 +25,7 @@ En este mensaje sencillo, empezarás con el **objetivo** básico: _resumir un do
 | Elemento | Ejemplo |
 | :------ | :------- |
 | Mensaje básico: <br>Empieza con el **objetivo** | **Resume este documento de Word.** |
-| Mensaje correcto: <br>Agrega un **contexto** | Agregar un **contexto** puede ayudar a Copilot a comprender el propósito del resumen y a adaptar la respuesta en consecuencia.<br><br>"_con un breve resumen de los puntos principales para tratarlos con mi equipo durante la reunión de ventas de mañana_". |
+| Mensaje correcto: <br>Agrega **contexto** | Agregar un **contexto** puede ayudar a Copilot a comprender el propósito del resumen y a adaptar la respuesta en consecuencia.<br><br>"_con un breve resumen de los puntos principales para tratarlos con mi equipo durante la reunión de ventas de mañana_". |
 | Mensaje mejor: <br>Especifica los **orígenes** | Agregar los **orígenes** puede ayudar a Copilot a comprender qué documento o elemento se debe resumir y a proporcionar una respuesta más precisa.<br><br>"_...la sección sobre el Análisis competitivo..._" |
 | Mensaje recomendado: <br>Establece unas **expectativas** claras | Por último, agregar unas **expectativas** puede ayudar a Copilot a comprender cómo dar formato al resumen y el nivel de detalle que se necesita.<br><br>"_Reduce el resumen a 5 puntos clave y usa un lenguaje sencillo_". |
 

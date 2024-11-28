@@ -1,5 +1,5 @@
 
-En este módulo, aprenderás a crear mensajes contextuales eficaces para que Microsoft 365 Copilot **resuma** información en aplicaciones de Microsoft 365. Si deseas mejorar tus aptitudes en materia de indicaciones para Copilot, este módulo te proporciona los conocimientos y técnicas necesarios para elaborar indicaciones que produzcan resultados precisos y útiles de Microsoft 365 Copilot.
+En este módulo, aprenderás a crear mensajes contextuales eficaces para que Microsoft 365 Copilot **resuma** información en aplicaciones de Microsoft 365. Si deseas mejorar tus aptitudes en materia de mensajes para Copilot, este módulo te proporciona los conocimientos y técnicas necesarios para crear mensajes que produzcan resultados precisos y útiles de Microsoft 365 Copilot.
 
 Este módulo se centra en **simplificar**, **resumir**, **comprender** y **compilar** información con Copilot en aplicaciones de Microsoft 365, como **Word**, **PowerPoint**, **Teams**, **Outlook**, etc. Aprenderás a usar estas funcionalidades básicas de resumen, así como a crear un mensaje eficaz que contenga todos los elementos para generar los resultados deseados.
 

@@ -1,6 +1,6 @@
 En este módulo, has aprendido a usar Copilot en varias aplicaciones de Microsoft, como Word, PowerPoint, Outlook y Chat de Microsoft 365. En Word, puedes abrir el panel Copilot a través de la pestaña Inicio de la cinta o empezar a escribir directamente en el documento para generar contenido nuevo. En PowerPoint, Copilot ayuda a crear, diseñar y dar formato a diapositivas escribiendo el contenido de la presentación. En Outlook, Copilot ayuda con la administración de las bandejas de entrada y la escritura de correos electrónicos mediante la redacción rápida de correos electrónicos y el resumen de hilos de correo electrónico largos. Por último, Microsoft 365 Business Chat se integra con tus datos y aplicaciones de trabajo para mejorar la creatividad, la productividad y el desarrollo de aptitudes.
 
-Las principales conclusiones de este módulo son:
+Los principales puntos clave de este módulo son:
 
 1. Copilot es una herramienta con tecnología de IA que ayuda a generar contenido, crear presentaciones, redactar correos electrónicos y alcanzar metas y objetivos más amplios.
 
