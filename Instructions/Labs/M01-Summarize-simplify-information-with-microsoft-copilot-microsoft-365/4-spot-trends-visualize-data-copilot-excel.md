@@ -15,7 +15,7 @@ Convierte rápidamente un rango de celdas en una tabla de Excel siguiendo estos 
 
 1. Selecciona  **Aceptar**.
 
-![Captura de pantalla del panel Copilot en Excel al abrirse por primera vez.](../media/copilot-pane-Excel.png)
+![Captura de pantalla del panel Copilot en Excel al abrirse por primera vez.](../media/copilot-pane-excel.png)
 
 ## Empecemos
 
