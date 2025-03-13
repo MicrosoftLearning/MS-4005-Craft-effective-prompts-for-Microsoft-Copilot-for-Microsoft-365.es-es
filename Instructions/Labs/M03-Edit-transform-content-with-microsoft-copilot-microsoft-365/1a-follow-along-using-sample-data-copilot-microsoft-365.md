@@ -14,6 +14,9 @@ Sigue los pasos siguientes para cargar todos los archivos necesarios en **OneDri
 3. En la barra de direcciones, escribe `https://www.office.com`.
 4. En **Bienvenido a Microsoft 365**, selecciona **Iniciar sesión**.
 5. En la **solicitud de inicio de sesión**, escribe `userx@yourtenant.onmicrosoft.com` (nombre de usuario e inquilino proporcionado por el inquilino proporcionado) y selecciona **Siguiente**.
+
+    [![Captura de pantalla del panel de recursos en Skillable](../media/lab_resources_password.png)](../media/lab_resources_password.png#lightbox)
+    
 6. En la pantalla **Escribir contraseña**, escribe la contraseña (proporcionada por el proveedor de inquilinos) para la cuenta de usuario y selecciona **Iniciar sesión**.
 7. Si se te pide **Mantener la sesión iniciada**, selecciona **No volver a mostrar** y **Sí**.
 8. En **Microsoft 365**, selecciona **Aplicaciones**.
