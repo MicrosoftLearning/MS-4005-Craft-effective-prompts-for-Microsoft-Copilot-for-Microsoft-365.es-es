@@ -1,3 +1,5 @@
+# Ejercicio - Seguimiento del uso de datos de ejemplo con Microsoft 365 Copilot
+
 En el resto del módulo, crearemos mensajes para Microsoft 365 Copilot que hagan referencia a los archivos siguientes:
 
 - [Market Analysis Report for Mystic Spice Premium Chai Tea.docx](https://go.microsoft.com/fwlink/?linkid=2268826)
@@ -7,7 +9,7 @@ En el resto del módulo, crearemos mensajes para Microsoft 365 Copilot que hagan
 
 **Nota**: estos son los archivos a los que se hace referencia en todo el módulo. Sin embargo, para este laboratorio, empezaremos cargando todos los archivos en **OneDrive** para asegurarnos de que son accesibles para los mensajes de Copilot más adelante.
 
-### Cargar archivos en OneDrive
+## Cargar archivos en OneDrive
 
 Sigue los pasos siguientes para cargar todos los archivos necesarios en **OneDrive**:
 
@@ -17,8 +19,8 @@ Sigue los pasos siguientes para cargar todos los archivos necesarios en **OneDri
 4. En **Bienvenido a Microsoft 365**, selecciona **Iniciar sesión**.
 5. En la **solicitud de inicio de sesión**, escribe `userx@yourtenant.onmicrosoft.com` (nombre de usuario e inquilino proporcionado por el inquilino proporcionado) y selecciona **Siguiente**.
 
-    [![Captura de pantalla del panel de recursos en Skillable](../media/lab_resources_password.png)](../media/lab_resources_password.png#lightbox)
-    
+    [![Captura de pantalla del panel de recursos](../media/lab_resources_password.png)](../media/lab_resources_password.png#lightbox)
+
 6. En la pantalla **Escribir contraseña**, escribe la contraseña (proporcionada por el proveedor de inquilinos) para la cuenta de usuario y selecciona **Iniciar sesión**.
 7. Si se te pide **Mantener la sesión iniciada**, selecciona **No volver a mostrar** y **Sí**.
 8. En **Microsoft 365**, selecciona **Aplicaciones**.
@@ -29,11 +31,11 @@ Sigue los pasos siguientes para cargar todos los archivos necesarios en **OneDri
 13. Una vez completada la carga, deberías ver **Se han cargado 29 elementos en Mis archivos** en el centro inferior de la pantalla.
 14. Deja **Edge** abierto y ve a la siguiente tarea.
 
-### Hacer referencia a archivos en Copilot
+### Hacer referencia a archivos
 
-Al usar Copilot, es posible que descubras que algunos archivos no están disponibles inmediatamente en las sugerencias. Esto ocurre porque ciertas experiencias de Copilot solo hacen referencia a archivos de la lista de **Utilizado recientemente (MRU),** mientras que otros te permiten examinar **OneDrive** directamente. Para asegurarte de que un archivo aparece en la lista **MRU**, basta con abrirlo en la aplicación de Microsoft 365 pertinente y se agregará automáticamente.
+Al hacer referencia a archivos de Copilot, es posible que no encuentres algunos archivos de las sugerencias proporcionadas. Esto ocurre porque ciertas experiencias de Copilot solo hacen referencia a archivos de la lista de utilizado recientemente, mientras que otros permiten examinar OneDrive directamente. Agregarlos a esa lista es tan fácil como abrirlos en la aplicación adecuada de Microsoft 365.  Una vez que se hayan abierto, deben aparecer en la lista de utilizado recientemente.
 
 > [!IMPORTANT]
-> Microsoft 365 Copilot solo funcionará con archivos guardados en **OneDrive**. Los archivos almacenados localmente en el equipo deberán moverse a **OneDrive** para que Copilot pueda acceder a ellos.
+> Microsoft 365 Copilot solo funcionará con archivos guardados en OneDrive. Los archivos almacenados localmente en el equipo deberán moverse a OneDrive para activar Copilot.
 
-A medida que avanzas en el módulo, tendrás oportunidades de probar varios mensajes en estos archivos. No dudes en probar diferentes enfoques para mejorar tus aptitudes con Copilot.
+A medida que avances a través del módulo, tendrás la oportunidad de probar otras indicaciones en estos archivos y se recomienda que lo hagas para explorar y mejorar tus habilidades.
